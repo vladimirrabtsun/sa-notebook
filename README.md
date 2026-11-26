@@ -1,3 +1,4 @@
-# HTTP
+# Клиент - сервер
 ## Видео
 - [Лучший Гайд по HTTP для Начинающих за 25 Мин с Нуля @Vlad Mishustin](https://www.youtube.com/watch?v=6JzPr_8bMbk)
+- [Что такое Rest API (http)? Soap? GraphQL? Websockets? RPC (gRPC, tRPC). Клиент - сервер. Вся теория @Ulbi TV](https://www.youtube.com/watch?v=XaTwnKLQi4A)
